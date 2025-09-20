@@ -1,8 +1,10 @@
 # Minecraft 风格成就图片生成器
 
 这是一个使用 Python 和 Pillow 库创建《我的世界》风格成就图片及完整成就看板的模块化工具。您可以轻松地将它集成到任何 Python 项目中，例如 Discord 机器人、服务器插件、Web 应用等，为您的用户提供美观、自动化的成就展示。
+
 ![成就预览](img/achi.png)
-![成就看板预览](img/board.png)
+
+<img src="img/board.png" width="500">
 
 ## ✨ 功能特性
 
